@@ -1,6 +1,6 @@
     import { connect } from 'cloudflare:sockets';
 
-    let at = '351c9981-04b6-4103-aa4b-864aa9c91469';
+    let at = '3014bd99-fff9-44a6-b15a-45d49e60ba9c';
     let fallbackAddress = '';
     let socks5Config = '';
     let customPreferredIPs = [];
