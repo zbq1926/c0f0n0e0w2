@@ -1034,13 +1034,6 @@
                                 error: '错误: 无效的UUID格式',
                                 reenter: '请重新输入有效的UUID'
                             },
-                            fa: {
-                                connecting: 'در حال اتصال...',
-                                invading: 'در حال نفوذ...',
-                                success: 'اتصال موفق! در حال بازگشت نتیجه...',
-                                error: 'خطا: فرمت UUID نامعتبر',
-                                reenter: 'لطفا UUID معتبر را دوباره وارد کنید'
-                            }
                         };
                         const browserLang = navigator.language || navigator.userLanguage || '';
                         const isFarsi = browserLang.includes('fa') || browserLang.includes('fa-IR');
